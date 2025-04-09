@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-color: #b5e48c;
+}
+
+#root {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}

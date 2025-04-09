@@ -1,0 +1,25 @@
+.southIndian {
+    padding: 16px;
+}
+
+.southIndian img {
+
+    width: 100%;
+    height: auto;
+}
+
+.southIndian h3 {
+    margin: 8px;
+    cursor: pointer;
+}
+
+.southIndian p {
+    margin: 8px;
+}
+
+@media screen and (max-width : 768px) {
+    .southIndian {
+        flex-wrap: wrap;
+        flex: 1 0 35%;
+    }
+}

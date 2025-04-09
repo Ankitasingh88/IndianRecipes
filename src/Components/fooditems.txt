@@ -1,0 +1,14 @@
+vegetables - 12
+rice - 4
+chappati -4
+sweetdishes/desserts - 5
+southindian - 4
+starter - 5
+softdrink- 4
+
+add logo to footer- done
+add social icons on footer - done
+check media querry on footer
+clean up extra code and console.log - done
+change recent to menu -done
+make border between main article and category

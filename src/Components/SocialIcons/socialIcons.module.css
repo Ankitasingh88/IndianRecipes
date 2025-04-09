@@ -1,0 +1,10 @@
+.social_icons {
+    margin: 16px;
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .social_icons {
+        justify-content: center;
+    }
+  }
